@@ -1,2 +1,2 @@
 # profile
-Repo to host my profile's README.md file
+Repo to host my GitHub profile's README.md file.
